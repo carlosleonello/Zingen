@@ -69,7 +69,7 @@
                 font: 600 var(--fs-sm) var(--ff-sans);
                 text-transform: uppercase;
                 letter-spacing: 0.08em;
-                color: var(--bg-color);
+                color: var(--background-color);
             }
         }
 
